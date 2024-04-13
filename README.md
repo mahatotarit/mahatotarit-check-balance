@@ -1,4 +1,4 @@
 ## Installation
 ```bash
-npm mahatotarit-check-balance
+npm i mahatotarit-check-balance
 ```
